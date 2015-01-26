@@ -1,0 +1,145 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>layout</title>
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap-theme.min.css">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+<div class="container">
+  <div class="col-md-4"><img src="images/sivasoft-logo.png"></div>
+  <div style="width:300px; float:right;">
+    <p style="color:red; font-weight:bold; margin-top:35px;">Phone : +91 90149 70353<br>
+      Email : ramesh.jenda99@gmail.com, ramesh.jenda@yahoo.com</p>
+  </div>
+  <div class="clearfix"></div>
+  <nav class="navbar navbar-inverse">
+    <div class="container-fluid">
+      <button class="navbar-toggle" data-toggle="collapse" data-target="#ss"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+      <div class="navbar-header"> <a class="navbar-brand" href="#">Ramesh It Pvt.Li</a> </div>
+      <div>
+        <ul class="nav navbar-nav">
+          <li class="active" ><a href="#">Home</a></li>
+          <li><a href="#">About Us</a></li>
+          <li><a href="#">Contact</a></li>
+          <li class="dropdown-toggle" data-toggle="dropdown"><a href="#">Services<span class="caret"></span></a>
+          <ul class="dropdown-menu">
+          <li><a href="#">Technology</a></li>
+          <li><a href="#">IT Technology</a></li>
+          <li><a href="#">Dammy Technology</a></li>
+          <li><a href="#">softwere Technology</a></li>
+          </ul>
+          </li>
+        </ul>
+        <ul class="nav navbar-nav navbar-right">
+          <li class="control-label"><a href="#">
+            <input type="text">
+            <span class="glyphicon glyphicon-search"></span>Search</a></li>
+          <li><a href="#"><span class="glyphicon glyphicon-log-in"></span>Login</a></li>
+          <li><a href="#"><span class="glyphicon glyphicon-user"></span>SignUp</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4">
+        <div class="features">
+          <div class="ss"> <img src="images/training.png" alt="" class="alignleft" width="32" height="32">
+            <h3  class="bg-success">IT Training</h3>
+          </div>
+          <p style="text-align:justify">SivaSoft (Training &amp; Development) is An ISO 9001:2008 CERTIFIED Company established in the year 2010 and Expertise in <a href="#">classroom</a>, <a href="#">online</a>, <a href="#">Corporate</a>, <a href="#">weekends</a> &amp; <a href="#">Weekends Workshops</a> training source for quality with realtime examples at a reasonable cost. Our team designed the course modules based..<br>
+            <a href="it-training.html"><img src="images/readmore.png" alt="readmore"></a></p>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="features">
+          <div class="ss"> <img src="images/database.png" alt="" class="alignleft" />
+            <h3  class="bg-success">Domain and Web Hosting</h3>
+          </div>
+          <p style="text-align:justify"> <cite><a href="http://www.sivait.in/en/" target="_blank"><strong>sivait.in</strong></a></cite> (24/7) is a web hosting company established in the year 2011 with a firm commitment to provide Lowest Pricing Guaranteed Services like Domain Name registration, Web Hosting, Website Builder, SSL Certificate, Reseller Hosting and email with best support and service oriented approach. <br>
+            <a href="http://www.sivait.in/en/" target="_blank"><img src="images/readmore.png" alt="readmore"></a></p>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="features">
+          <div class="ss"> <img src="images/services.png" width="32" height="32" class="alignleft" alt="services">
+            <h3  class="bg-success">IT SERVICES</h3>
+          </div>
+          <p style="text-align">SivaSoft (Training &amp; Development) is An ISO 9001:2008 CERTIFIED Company and Expertise in IT SERVICES Provider loacated in Hyderabad, india.We work on leading-edge industry-leading initiatives in web, mobile, social media, digital media, ecommerce and search engine / marketing, social media services. <a href="it-services.html" style="text-align:right"><img src="images/readmore.png" alt="readmore"></a></p>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4">
+          <div class="features">
+            <div class="ss"></div>
+            <img src="images/download.jpg" alt="" class="alignleft" width="40" height="32">
+            <h3  class="bg-success">Interview Questions</h3>
+          </div>
+          <p style="text-align:justify"><cite><a href="http://sivasoft-interview-questions.blogspot.in/" target="_blank"><strong>sivasoft interview questions</strong></a></cite> is a website to provide Interview Resources for Job seekers and Job holders which includes Placement Papers with Answers, HR Interview Questions with Answers, Technical Interview Questions and Answers, Group Discussion Topics with Answers and Body Language (Gestures) <a href="http://sivasoft-interview-questions.blogspot.in/" target="_blank"><img src="images/readmore.png" alt="readmore"></a></p>
+        </div>
+        <div class="col-md-4">
+          <div class="features">
+            <div class="ss"><img src="images/video-camera-1.png" alt="" class="alignleft" width="32" height="32">
+              <h3  class="bg-success">Videos</h3>
+            </div>
+            <p style="text-align:justify"> <cite><a href="http://sivasoft-videos.blogspot.in/" target="_blank"><strong>sivasoft videos</strong></a></cite> is a one of the blog  which includes technical, funny, amazing, education, latest news &amp; movie updates and jabardasth comedy show. <a href="http://sivasoft-videos.blogspot.in/" target="_blank"><img src="images/readmore.png" alt="readmore"></a></p>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="features">
+            <div class="ss"> <img src="images/images.jpg" width="32" height="32" alt="" class="alignleft">
+              <h3  class="bg-success">CAREERS IN SIVASOFT</h3>
+            </div>
+            <p style="text-align:justify">SivaSoft (Training &amp; Development) is An ISO 9001:2008 CERTIFIED Company and Expertise in classroom, online, Corporate, weekends,  Weekends Workshops &amp; IT SERVICES Provider located in Hyderabad, india.Careers in SivaSoft you can check here : <cite><a href="http://sivasoft-jobs.blogspot.in/" target="_blank"><strong>sivajobs</strong></a></cite>. <a href="http://sivasoft-jobs.blogspot.in/" target="_blank" style="text-align:right"><img src="images/readmore.png" alt="readmore"></a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="container"> <div class="col-md-4"
+			
+    <div class="instructor"> <a href="/technicalstaff/details/brock-allen"> <img class="img-circle profile"
+			     src="images/IMG_20141212_151457.jpg" width="200"  height="200"/> </a>
+      <h3><a href="https://www.facebook.com/dukri.muralidhar">Dukri Muralidher</a></h3>
+      <div class="tags"> <span class="tag label label-primary">ASP.NET MVC</span> <span class="tag label label-primary">JavaScript</span> <span class="tag label label-primary">Security</span><br>
+        <span class="tag label label-primary">Engeniring</span> <span class="tag label label-danger">softwere</span> <span class="tag label label-danger">B.Tech</span> </div>
+    </div>
+    <div class="col-md-4"
+      <div class="instructor"> 
+      <a href="/technicalstaff/details/richard-blewett"> 
+      <img class="img-circle profile"
+			     src="images/IMG_20141212_153932.jpg" width="200" height="200" /> </a>
+        <h3><a href="https://www.facebook.com/profile.php?id=100008434690419">Ramesh</a></h3>
+        <div class="tags"> 
+         <span class="tag label label-primary">.NET</span>
+         <span class="tag label label-primary">WCF</span> 
+         <span class="tag label label-primary">C#</span> </div>
+        <span class="tag label label-primary">Jquery</span>
+        <span class="tag label label-primary">Bootstrap</span>
+      </div>
+      <div class="col-md-4"
+      <div class="instructor">
+      <a href="#"><img src="images/images (1).jpg" width="200" height="200" class="img-circle"/></a>
+      <h3><a href="#">Allu Arjun</a></h3>
+      <div class="tags"> 
+         <span class="tag label label-primary">.NET</span>
+         <span class="tag label label-primary">WCF</span> 
+         <span class="tag label label-primary">C#</span> </div>
+        <span class="tag label label-primary">Jquery</span>
+        <span class="tag label label-primary">Bootstrap</span>
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>
